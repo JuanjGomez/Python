@@ -2,7 +2,7 @@ import os # Para manejar archivos y directorios del sistema operativo
 import shutil # Para mover archivos de un lugar a otro
 
 # Ruta de la carpeta de origen
-ruta = "C:/proyects/Python/Organizador_automatico_de_archivos/test_organizador/version_3/"
+ruta = "C:/proyects/Python/Organizador_automatico_de_archivos/version_3/"
 
 # Tipos de archivos
 extensiones = {
